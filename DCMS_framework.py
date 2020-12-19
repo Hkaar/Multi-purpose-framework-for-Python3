@@ -238,11 +238,11 @@ def run(dict_plus, sys_name, sys_color):
 		command = input(default_color_scheme + "~/" + default_system_name + "~#")
 
 		if command in command_dict:
-			#try:
-			command_dict[command]()
+			try:
+				command_dict[command]()
 
-			#except:
-			#	print("Error!", sys.exc_info()[0], "has occurred!")
+			except:
+				print("Error!", sys.exc_info()[0], "has occurred!")
 
 		else:
 			print(default_error_message)
