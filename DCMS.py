@@ -11,8 +11,8 @@ last_date = (2020, 12, 13, 12, 30, 5, 4, 362, 0)
 ## String variables
 dcms_help = f"""
 DCMS terminal- version {version}, a front-end for the DCMS framework
--version {framewrk_version} executing commands within the list. Note
-some packages are modfy for extra use and some are added but generally
+-version {framewrk_version} executing commands within the list. Note some
+packages are modfy for extra use and some are added but generally
 not steering away from the framework.
 
 Some sample commands are:
