@@ -9,16 +9,16 @@ version = 0.0125
 last_date = (2020, 12, 13, 12, 30, 5, 4, 362, 0)
 
 ## String variables
-dcms_help = ("""
-DCMS terminal front-end for the DCMS framework for executing
-commands contain within a certain list that are defined by
-default. Some commands here are custom and are only for this
-terminal to show specific information.
+dcms_help = f"""
+DCMS terminal- version {version}, a front-end for the DCMS framework
+-version {framewrk_version} executing commands within the list. Note
+some packages are modfy for extra use and some are added but generally
+not steering away from the framework.
 
 Some sample commands are:
--] clear       -] delay
--] pause      
-""")
+-] clear                -] pause
+-] delay                -] time ..(type)
+"""
 
 # Functions
 ## System functions
