@@ -9,6 +9,7 @@ If you have any suggestions to add to the project please tell me on my github pa
 and also report any bugs or problems that you encounter while using this project.
 
 Changelogs:
+
 1] Added functions to manipulate lists and dictionaries.
 
 2] Improved default framework terminal, for making it more suitable for debugging
