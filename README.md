@@ -1,16 +1,24 @@
 # Multi-purpose-framework-for-Python3
-Multi-purpose framework for Python3 and Above
+Multi-purpose framework for Python3
 
-The framework which i use to make my projects simpler and faster by using the same code to test my projects.
-Main purpose of the framework is to make my code easier to read and write. You can use the framework for anything you want and contribute to the code to make it better.
+DCMS framework is a python framework or a script that contains a bunch of functions 
+to manipulate some of the types of default data sets in Python3. The framework/script 
+is still in development and always be open-sourced. 
 
-Q:
-What does DCMS stand for?
-A:
-DCMS originally stands for Data Creating Mnagement System, i named it that way because originally it was for managing and creating data duh. Why i didnt changed it because im too lazy to come up with a new name.
-Q:
-Why the name framework instead of something else?
-A:
-Because it just plainly cool to me.
+If you have any suggestions to add to the project please tell me on my github page,
+and also report any bugs or problems that you encounter while using this project.
+
+Changelogs:
+-) Added functions to convert lists and dictionaries to a selected string format.
+-) Improved default framework terminal, for making it more suitable for debugging
+python scripts.
+-) Improved some default framework terminal functions.
+-) Added the 'framewrk -ls -cmd' function to list all commands within the command
+dictionary.
+-) Removed some functions that were in the last version, some of the functions are
+'import_modules', 'import_dictionaries', 'convert_str', 'shutdown' due to performance, 
+and not working as intended.
+-) Changed the settings scheme within the framework/script.
 
 Hope you have fun using this, and enjoy!
+- Hkaar / March 1st 2021.
