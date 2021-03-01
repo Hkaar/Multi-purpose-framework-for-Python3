@@ -1,8 +1,8 @@
 # Multi-purpose-framework-for-Python3
 Multi-purpose framework for Python3
 
-DCMS framework is a python framework or a script that contains a bunch of functions 
-to manipulate some of the types of default data sets in Python3. The framework/script 
+DCMS framework is a multi-purpose python framework or a script that contains a bunch 
+of functions to manipulate some of the types of default data sets in Python3. The framework/script 
 is still in development and always be open-sourced. 
 
 If you have any suggestions to add to the project please tell me on my github page,
